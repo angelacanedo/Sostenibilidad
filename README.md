@@ -16,9 +16,6 @@ sostenibilidad.**
     consideración equilibrada de estos aspectos es esencial para una
     gestión sostenible y ética.
 
-![Interfaz de usuario gráfica, Diagrama Descripción generada
-automáticamente](media/image1.png){width="5.905555555555556in"
-height="1.9590277777777778in"}
 
 **1.1.- ¿Qué es el desarrollo sostenible?**
 
@@ -32,10 +29,6 @@ sostenible** de la siguiente manera:
 necesidades del presente sin comprometer la capacidad de las
 generaciones futuras para satisfacer sus propias necesidades.\"***
 
-![Interfaz de usuario gráfica, Texto, Aplicación, Chat o mensaje de
-texto Descripción generada
-automáticamente](media/image2.png){width="3.5694444444444446in"
-height="2.7777777777777777in"}
 
 Esta definición destaca la idea fundamental de equilibrar el progreso
 económico, la equidad social y la preservación del medio ambiente para
