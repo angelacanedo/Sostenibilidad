@@ -1,1 +1,3 @@
-Esto es documentos y estoy editando este archivo
++++ Cambio desde local para conflicto +++
+
+
